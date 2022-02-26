@@ -1,13 +1,22 @@
 # A-D
+_**A**_
 <dl>
    <dt>	Attributes	</dt>
    <dd>	Extend Elements, has values.	</dd>
+</dl>
+
+_**B**_ 
+<dl>
    <dt>	Backlog	</dt>
    <dd>	Place where items that are not assigned to a sprint are held.	</dd>
-   <dt>	Bloom’s Taxonomy	</dt>
-   <dd>	Order of cognitive and critical thinking skills	</dd>
+   <dt>	Bloom’s Taxonomy.	</dt>
+   <dd>	Order of cognitive and critical thinking skills.	</dd>
    <dt>	Body	</dt>
-   <dd>	The body tag contains all of the content of the page	</dd>
+   <dd>	The body tag contains all of the content of the page.	</dd>
+</dl>
+
+_**C**_  
+<dl>
    <dt>	Callout	</dt>
    <dd>	A specific type of annotation that includes a line and text. Used to label parts of a graphic.	</dd>
    <dt>	CAT (computer aided translation)	</dt>
@@ -21,7 +30,7 @@
    <dt>	Chunking	</dt>
    <dd>	Presenting a conceptual piece of information as a clear visual “chunk” (such as each step in a procedure).	</dd>
    <dt>	CI/CD Pipeline	</dt>
-   <dd>	Continuous Integration, Continuous Deployment method of software delivery	</dd>
+   <dd>	Continuous Integration, Continuous Deployment method of software delivery.	</dd>
    <dt>	Client / Server	</dt>
    <dd>	a client is used to access a server. The server holds all important information. The client only has authentication information to present to the server. 	</dd>
    <dt>	"CMS (Component Management System)
@@ -35,7 +44,7 @@
    <dt>	Community	</dt>
    <dd>	A group of contributors working together on a project.	</dd>
    <dt>	Compiler	</dt>
-   <dd>	Software that reads a program in one language and translates it into another	</dd>
+   <dd>	Software that reads a program in one language and translates it into another.	</dd>
    <dt>	Content	</dt>
    <dd>	What we write, create, and edit. We talk about content rather than manuals because the same content can end up in different deliverables.	</dd>
    <dt>	Content Delivery Systems	</dt>
@@ -51,7 +60,11 @@
    <dt>	Controlled English	</dt>
    <dd>	A methodology for writing with simple structures and limited vocabulary.	</dd>
    <dt>	CSS (Cascading Style Sheets)	</dt>
-   <dd>	Describes how HTML is to be displayed per single  page / entire site	</dd>
+   <dd>	Describes how HTML is to be displayed per single  page / entire site.	</dd>
+</dl>
+
+_**D**_  
+<dl>
    <dt>	De facto (by practice)	</dt>
    <dd>	Rules or guidelines that are random, arbitrary, "the way we have always done things," etc.	</dd>
    <dt>	De jure (By law)	</dt>
@@ -65,26 +78,25 @@
    <dt>	Diagram Building Tools	</dt>
    <dd>	Tools used to create flowcharts, schematics, network diagrams and more, such as Visio, Draw.io, and Lucidchart.	</dd>
    <dt>	Distributed VCS	</dt>
-   <dd>	A VCS where the identical copies of information are located on multiple servers lowering the risk of failure and providing High Availability (HA)	</dd>
+   <dd>	A VCS where the identical copies of information are located on multiple servers lowering the risk of failure and providing High Availability (HA).	</dd>
    <dt>	DITA (Darwin Information Typing Architecture)	</dt>
    <dd>	Defines a set of document types for authoring and organizing topic-oriented information, as well as a set of mechanisms for combining, extending, and constraining document types.	</dd>
    <dt>	DITA / XML Authoring Tools	</dt>
    <dd>	A tool that helps you create content using DITA or XML, such as Oxygen and XMetal.	</dd>
    <dt>	Docs as Code	</dt>
    <dd>	"A philosophy of work, Docs, just like code, 
-      Uses similar workflows"	
+      Uses similar workflows".
    </dd>
    <dt>	DoD	</dt>
-   <dd>	(Definition of Done) what criteria must be met for a task to be considered complete	</dd>
+   <dd>	(Definition of Done) what criteria must be met for a task to be considered complete.	</dd>
    <dt>	DOM	</dt>
    <dd>	Document Object Model: An API which interacts with any HTML or XML document. It represents the document as a node tree.	</dd>
    <dt>	Domain	</dt>
    <dd>	the field that the product is in. For example: networking, business software, medical devices, etc.	</dd>
    <dt>	DTD (Document Type Definition)	</dt>
-   <dd>	Defines the structure and the legal elements and attributes of an XML document	</dd>
+   <dd>	Defines the structure and the legal elements and attributes of an XML document.	</dd>
    <dt>	DTP (Desktop Publishing)	</dt>
    <dd>	An application for writing and design content, such as MS Word.	</dd>
    <dt>	Duplex	</dt>
    <dd>	A document that is printed on both sides (double-sided).	</dd>
 </dl>
-
