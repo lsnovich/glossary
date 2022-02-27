@@ -63,7 +63,6 @@
 <dd>	A software system for monitoring and managing changes to files.	</dd>
 <dt>	VM (Virtual Machine)	</dt>
 <dd>	Emulates an entire computer system including physical hardware. It can run on a PC or in the cloud.	</dd>
-
 <p>&nbsp;</p>
     
 <dt>	W	</dt>
