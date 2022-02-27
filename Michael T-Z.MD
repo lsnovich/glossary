@@ -75,9 +75,6 @@
 <dt>	Word Processor	</dt>
 <dd>	A program that allows you to input, edit, format, and output text, such as Microsoft Word	</dd>
 <dt>	X	</dt>
-
-<dd>		</dd>
-  
 <dt>	XML (Extensible Markup Language)	</dt>
 <dd>	A markup language and file format for storing, transmitting, and reconstructing arbitrary data. 	</dd>
 <dt>	Xref (cross-reference)	</dt>
