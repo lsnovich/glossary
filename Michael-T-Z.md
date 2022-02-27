@@ -1,4 +1,4 @@
-<d1>
+<dl>
   <dt>	T	</dt> 
 <dt>	Tags	</dt>  
 <dd>	Tags allow the computer that is reading the page to know what is markup and what is content.	</dd>
@@ -64,4 +64,4 @@
 <dd>	A markup language and file format for storing, transmitting, and reconstructing arbitrary data. 	</dd>
 <dt>	Xref (cross-reference)	</dt>
 <dd>	Link to related content usually internal to that document.	</dd>
-</d1>
+</dl>
