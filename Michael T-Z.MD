@@ -74,9 +74,6 @@
 <dd>	Work in Progress	</dd>
 <dt>	Word Processor	</dt>
 <dd>	A program that allows you to input, edit, format, and output text, such as Microsoft Word	</dd>
-
-<p>&nbsp;</p>
-    
 <dt>	X	</dt>
 
 <dd>		</dd>
