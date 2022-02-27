@@ -55,7 +55,6 @@
 <dt>	V	</dt>
 
 <dd>		</dd>
-  
 <dt>	Vector Graphic	</dt>
 <dd>	Vector graphics are also known as scalable vector graphics (SVG). These graphics consist of anchored dots and connected by lines and curves.	</dd>
 <dt>	Vector Graphic Tools	</dt>
