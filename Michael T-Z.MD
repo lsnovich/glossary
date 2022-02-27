@@ -1,6 +1,5 @@
 <d1>
 <dt>	T	</dt>  
- <p>&nbsp;</p>
 <dd>		</dd>
   
 <dt>	Tags	</dt>  
