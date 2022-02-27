@@ -29,7 +29,6 @@
 <p>&nbsp;</p>
     
 <dt>	U	</dt>
-
 <dd>		</dd>
   
 <dt>	U-testing (usability testing)	</dt>
