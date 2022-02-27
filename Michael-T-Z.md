@@ -1,7 +1,5 @@
 <d1>
-<dt>	T	</dt>  
-<dd>		</dd>
-  
+  <dt>	T	</dt> 
 <dt>	Tags	</dt>  
 <dd>	Tags allow the computer that is reading the page to know what is markup and what is content.	</dd>
 <dt>	TechComm Content	</dt>
@@ -25,12 +23,8 @@
 <dt>	Topic	</dt>
 <dd>	Additional navigation buttons or controls that appear on the top of the Help window.	</dd>
 <dt>	Topic ID	</dt>
-<dd>	A unique identifier for a topic within the HAT.	</dd>
-<p>&nbsp;</p>
-    
+<dd>	A unique identifier for a topic within the HAT.	</dd>   
 <dt>	U	</dt>
-<dd>		</dd>
-  
 <dt>	U-testing (usability testing)	</dt>
 <dd>	The process of determining if a product or its documentation can be easily used by the target audience.	</dd>
 <dt>	UI (User Interface)	</dt>
@@ -49,12 +43,7 @@
 <dd>	Replaced GMT (Greenwich Mean Time) as a universal point of reverence for time zones.	</dd>
 <dt>	UX (User Experience)	</dt>
 <dd>	All aspects of a user's interaction with a company, their product,content, documentation, employees, etc.	
-    
-<p>&nbsp;</p>
-    
 <dt>	V	</dt>
-
-<dd>		</dd>
 <dt>	Vector Graphic	</dt>
 <dd>	Vector graphics are also known as scalable vector graphics (SVG). These graphics consist of anchored dots and connected by lines and curves.	</dd>
 <dt>	Vector Graphic Tools	</dt>
@@ -63,11 +52,7 @@
 <dd>	A software system for monitoring and managing changes to files.	</dd>
 <dt>	VM (Virtual Machine)	</dt>
 <dd>	Emulates an entire computer system including physical hardware. It can run on a PC or in the cloud.	</dd>
-<p>&nbsp;</p>
-    
 <dt>	W	</dt>
-<dd>		</dd>
-  
 <dt>	WIIFM	</dt>
 <dd>	What’s in it for me? Why should I do something?	</dd>
 <dt>	WIP	</dt>
